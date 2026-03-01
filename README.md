@@ -46,19 +46,19 @@ The system centralizes student professional development data and automates place
 ## 📷 Application Snapshots
 
 ### Dashboard
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### Student Profile Form
-![Student Profile](Screenshots/student_profile.png)
+![Student Profile](Screenshots/Student_Profile_Form.png)
 
 ### Internship Module
-![Internship](Screenshots/internship.png)
+![Internship](Screenshots/Internship.png)
 
 ### Placement Drive
-![Placement](Screenshots/placement.png)
+![Placement](Screenshots/Placement.png)
 
 ### Reports
-![Reports](Screenshots/reports.png)
+![Reports](Screenshots/Profiles.png)
 
 ---
 
